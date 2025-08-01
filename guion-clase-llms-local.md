@@ -2,41 +2,47 @@
 
 ## Contexto de la clase
 
-Esta clase forma parte del contenido complementario del **Master Online de IA para Desarrolladores** de LIDR (https://www.lidr.co/ia-devs), un programa integral diseñado para profesionales del desarrollo que quieren dominar las tecnologías de Inteligencia Artificial.
+Esta clase forma parte del contenido **obligatorio** del **Master Online de IA para Desarrolladores** de LIDR (https://www.lidr.co/ia-devs), un programa integral diseñado para profesionales del desarrollo que quieren dominar las tecnologías de Inteligencia Artificial.
 
-### ¿Por qué esta clase complementaria?
+### ¿Por qué esta clase es parte del master?
 
-Aunque el master está diseñado para ser **accesible a cualquier desarrollador** sin requerir hardware especializado, cada vez más alumnos nos solicitan información sobre **cómo ejecutar LLMs en local**. Por este motivo, hemos creado esta clase específica que:
+Aunque el master está diseñado para ser **accesible a cualquier desarrollador** sin requerir hardware especializado, consideramos fundamental que nuestros alumnos comprendan **el futuro de la IA local** y las oportunidades que presenta. Por este motivo, hemos incluido esta clase como contenido adicional que:
 
-- **No es un requisito** para seguir el master principal
-- **Está disponible públicamente** en YouTube para toda la comunidad
-- **Complementa la formación** para aquellos que tengan o planeen adquirir hardware adecuado
-- **Explora el futuro** de la IA local y sus ventajas para desarrolladores
+- **Es parte integral** del programa de estudios del master
+- **Está disponible exclusivamente** para alumnos del master
+- **Prepara a los estudiantes** para el futuro de la IA local y sus aplicaciones profesionales
+- **Proporciona ventaja competitiva** en un mercado laboral en constante evolución
 
 ### Para quién es esta clase:
 
-✅ **Alumnos del master** que quieren profundizar en IA local  
-✅ **Desarrolladores** considerando actualizar su setup  
-✅ **Profesionales** que buscan privacidad y control total sobre sus herramientas de IA  
-✅ **Entusiastas** de la tecnología que quieren estar a la vanguardia  
+✅ **Alumnos del master** como parte de su formación integral  
+✅ **Futuros profesionales de IA y entusiastas** que necesitan entender todas las opciones tecnológicas  
+✅ **Desarrolladores** que quieren estar preparados para el siguiente nivel de la IA  
+✅ **Estudiantes** que buscan una formación completa y actualizada  
 
-### Relación con el master principal:
+### Importancia en tu formación profesional:
 
-El **Master de IA para Desarrolladores** cubre todas las tecnologías de IA que necesitas como profesional, utilizando APIs y servicios en la nube que funcionan en cualquier ordenador. Esta clase te muestra **la siguiente evolución**: tener tu propio stack de IA completamente local.
+El **Master de IA para Desarrolladores** cubre todas las tecnologías de IA que necesitas como profesional, utilizando APIs y servicios en la nube que funcionan en cualquier ordenador. Esta clase te muestra **la evolución natural**: cómo la IA local se está convirtiendo en una opción cada vez más viable y qué oportunidades profesionales presenta.
 
-**¿Interesado en el master completo?** Visita https://www.lidr.co/ia-devs
+**Comprender la IA local te permitirá**:
+- Ofrecer soluciones más diversas a tus clientes
+- Entender las ventajas y limitaciones de cada enfoque
+- Estar preparado para proyectos que requieran máxima privacidad
+- Anticiparte a las tendencias del mercado
 
 ---
 
 ## Introducción a la clase
 
-Esta clase es especialmente útil para quienes estén considerando **actualizar su PC para ejecutar modelos de IA en local**. Te ayudará a entender qué hardware necesitas y cómo aprovechar al máximo tu inversión.
+Como alumno del **Master de IA para Desarrolladores**, esta clase te proporcionará conocimientos avanzados sobre **LLMs en local** que complementan perfectamente tu formación en tecnologías de IA en la nube. Te ayudará a valorar si merece la pena invertir en hardware local, qué configuración necesitas y cómo integrar estas herramientas en tu flujo profesional.
 
 **Lo que veremos en esta clase:**
 
 ### **Herramientas principales para ejecutar LLMs localmente:**
 - **Ollama**: Herramienta de línea de comandos, potente y flexible
 - **LM Studio**: Interfaz gráfica amigable, ideal para principiantes
+
+### **Interfaces gráficas para interactuar con LLMs:**
 - **Open WebUI**: Interfaz de chat similar a ChatGPT (instalada con Pinokio)
 
 ### **Integraciones con editores de código:**
